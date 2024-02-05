@@ -129,6 +129,6 @@ You might encounter my old frontend related repositories, since I primarily focu
   However, the way I approach to company work is completely different, of course :)
 </details>
 <hr>
- <a href="linkedin.com/in/berk-açıkgöz-1a182a168">
+ <a href="https://linkedin.com/in/berk-açıkgöz-1a182a168">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
