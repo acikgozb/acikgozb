@@ -6,10 +6,10 @@ Hey there, glad to have you here.
 
 ### Currently learning / spending time on 🚀
 
-  * Vim motions & Neovim configuration for a language agnostic dev environment
-  * Setting up Neovim & Tmux for Database management and VCS
+  * Replacing Jetbrains products (mainly Rider, Goland and Datagrip) with Neovim for a customized, language agnostic dev environment
+  * Setting up Kitty, Neovim & Tmux for my dev environment
   * CLI applications with Golang
-  * Doing POC's for technologies that I am interested in
+  * Keeping the engine running for Data Structures and Algorithms
 
 <p>
   <details>
