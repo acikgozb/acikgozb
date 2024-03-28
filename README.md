@@ -20,6 +20,7 @@ Hey there, glad to have you here.
       <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37" alt="Neovim" title="Neovim"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+      <img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
       <img width="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/>
@@ -28,7 +29,7 @@ Hey there, glad to have you here.
 
 <p> 
 <details>
-  <summary><strong> View Skills  🙌 </strong></summary>
+  <summary><strong> Skills  🙌 </strong></summary>
 
 - Languages and frameworks
   <br>
@@ -99,16 +100,6 @@ You might encounter my old frontend related repositories, since I primarily focu
   </summary>
   <br>
   First of all, if I could keep you reading until here, thanks for taking time to check through.
-
-  ## Current Progress
-
-  I started my backend journey with C# nearly 2 years ago and got a nice initial momentum. Now, my primary focus is to deep dive into the world of backend.
-  
-  Because of this, I decided to learn another language since I believe each language teaches people a new perspective of doing things. 
-  
-  For this purpose, I chose to stick with `Go` because the language does not contain much "magic". Also with the emphasis on **concurrency, a solid standard library, testing and tooling support**, I really believe `Go`   encourages programmers to write robust, performant code by allowing them to understand what is happening behind the scenes.
-  
-  This does not mean other languages are worse and everything should be written in `Go`. Languages and other technologies should be considered as tools in our toolbelt and should be used only if there is a need for them.
   
   ## How Do I Use My Github?
   
