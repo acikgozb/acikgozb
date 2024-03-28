@@ -8,7 +8,7 @@ Hey there, glad to have you here.
 
   * Replacing Jetbrains products (mainly Rider, Goland and Datagrip) with Neovim for a customized, language agnostic dev environment
   * Setting up Kitty, Neovim & Tmux for my dev environment
-  * Diving into the world of DBs, one row at a time
+  * Diving into the world of automation and containerization 
   * Keeping the engine warm with Data Structures and Algorithms
 
 <p>
