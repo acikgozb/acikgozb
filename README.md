@@ -6,10 +6,11 @@ Hey there, glad to have you here.
 
 ### Currently learning / spending time on 🚀
 
-  * Replacing Jetbrains products (mainly Rider, Goland and Datagrip) with Neovim for a customized, language agnostic dev environment
   * Setting up Kitty, Neovim & Tmux for my dev environment
-  * Diving into the world of automation and containerization 
-  * Keeping the engine warm with Data Structures and Algorithms
+  * Making my terminal feel just like home
+  * Diving into the world of automation and containerization
+  * Getting my hands dirty with Linux
+  
 
 <p>
   <details>
