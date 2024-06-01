@@ -20,12 +20,6 @@ Hey there, glad to have you here.
       <img width="90" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux"/>
       <img width="100" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" title="Neovim"/>
       <img width="75" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="AWS"/>
-      <img width="98" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker"/>
-      <img width="130" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes"/>
-      <img width="125" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" title="Terraform"/>
-      <img width="105" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" title="Grafana"/>
-      <img width="130" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" title="Prometheus"/>
-      <img width="110" src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" title="CircleCI"/>
    </details>
 </p>
 
@@ -89,23 +83,12 @@ Since I primarily focus on Devops, I did not list my frontend & backend related 
   First of all, if I could keep you reading until here, thanks for taking time to check through.
   
   ## How Do I Use My Github?
-  The main repositories for "showcasing" are the ones I pin on my main profile page.
+  The main repositories for "showcasing" are the ones I pin on my main profile page. These repositories are the ones I pay attention the most, and keep updated as regular as possible.
 
-  You might not like this but, most of things you will see here will be POC type repositories. 
+  To see what I've been up on infra related things, you can check those repositories.
 
-  I like to spend my free time focusing on a specific problem. Therefore, I extract the main idea into a repository and start playing around it.
-  
-  *Example*: If I'm curious about how to create a CLI application, I only focus on CLI specific things. I **do not spend time** making the code production ready (no abstractions, no monitoring, only barebones code design).
-  
-  The reason for this is creating a good design really depends on:
-  
-  - The current working environment (aka. the company)
-  - The requirements
-  - The allocated time
-  
-  Since the real-world experience will always differ and the designs must follow these differences, I choose to not spend time on these during POC's. 
-  
-  However, the way I approach to company work is completely different, of course :)
+  The rest is mostly POC type repositories, where I loosen up things a little bit and play around certain concepts.
+
 </details>
 <hr>
  <a href="https://linkedin.com/in/berk-açıkgöz-1a182a168">
