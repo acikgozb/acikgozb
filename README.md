@@ -4,12 +4,10 @@ Hey there, glad to have you here.
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acikgozb&langs_count=10&theme=dark&layout=compact)
 
-### Currently learning / spending time on 🚀
+### Currently spending time on 🚀
 
-  * Setting up Kitty, Neovim & Tmux for my dev environment
-  * Making my terminal feel just like home
-  * Diving into the world of automation and containerization
-  * Getting my hands dirty with Linux
+  * Automating my local configuration setup (for Debian, Fedora, macOS)
+  * Getting my hands even dirtier with Linux (networking) and Neovim (never gets old)
   
 <p>
   <details>
