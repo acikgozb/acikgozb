@@ -6,7 +6,6 @@ Hey there, glad to have you here.
 
 ### Currently spending time on 🚀
 
-  * Automating my local configuration setup (for Debian, Fedora, macOS)
   * Getting my hands even dirtier with Linux (networking) and Neovim (never gets old)
   
 <p>
