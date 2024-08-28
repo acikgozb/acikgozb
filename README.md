@@ -6,7 +6,7 @@ Hey there, glad to have you here.
 
 ### Currently spending time on 🚀
 
-  * Getting my hands even dirtier with Linux (networking) and Neovim (never gets old)
+  * Hanging around in Layer 3 routing tables and Neovim (never gets old)
   
 <p>
   <details>
