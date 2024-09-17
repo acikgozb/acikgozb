@@ -6,7 +6,7 @@ Hey there, glad to have you here.
 
 ### Currently spending time on 🚀
 
-  * Hanging around in the Networking land, L2 through L4.
+  * Creating a PoC around local CI/CD with Podman + Jenkins.
   
 ### Tech Stack
 
