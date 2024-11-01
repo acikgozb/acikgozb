@@ -14,4 +14,3 @@ To see the technologies I frequently use, you can check my [StackShare](https://
 This is the place I try to keep as up-to-date as possible.
 
 The projects and opinions are all my own.
-No AI is used in any of the projects.
