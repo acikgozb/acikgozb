@@ -6,7 +6,7 @@ Hey there, glad to have you here.
 
 ### Currently spending time on 🚀
 
-  * Documentation for my website.
+  * Adding documentation to my website.
   
 ### Tech Stack
 
