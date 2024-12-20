@@ -6,7 +6,7 @@ Hey there, glad to have you here.
 
 ### Currently spending time on 🚀
 
-  * Exploring Terraform - curious about the differences between TF and AWS CDK.
+  * Documentation for my website.
   
 ### Tech Stack
 
