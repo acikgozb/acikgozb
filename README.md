@@ -6,7 +6,7 @@ Hey there, glad to have you here.
 
 ### Currently spending time on 🚀
 
-  * Adding documentation to my website.
+  * Slowly moving into the K8s roller coaster.
   
 ### Tech Stack
 
