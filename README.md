@@ -6,7 +6,8 @@ Hey there, glad to have you here.
 
 ### Currently spending time on 🚀
 
-  * Slowly moving into the K8s roller coaster.
+  * Building more automation around my personal development environment.
+  * Documenting my journey.
   
 ### Tech Stack
 
