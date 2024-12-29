@@ -20,11 +20,11 @@ These are the ones I pay attention the most.
 
 The implementations and opinions are all my own. For more details other than individual README's, you can check out [here](https://acikgozb.dev/projects).
 
-![acikgozb-dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2)
-![local-ci](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=local-ci&theme=github_dark&description_lines_count=2)
-![tcp-ip-journey](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tcp-ip-journey&theme=github_dark&description_lines_count=2)
-![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=dotfiles&theme=github_dark&description_lines_count=2)
-![tempgen](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tempgen.nvim&theme=github_dark&description_lines_count=2)
+[![acikgozb-dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/acikgozb.dev)
+[![local-ci](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=local-ci&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/local-ci)
+[![tcp-ip-journey](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tcp-ip-journey&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/tcp-ip-journey)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=dotfiles&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/dotfiles)
+[![tempgen](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tempgen.nvim&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/tempgen)
 
 ### Trophies 🏆
 
