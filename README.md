@@ -24,7 +24,7 @@ The implementations and opinions are all my own. For more details other than ind
 [![local-ci](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=local-ci&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/local-ci)
 [![tcp-ip-journey](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tcp-ip-journey&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/tcp-ip-journey)
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=dotfiles&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/dotfiles)
-[![tempgen](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tempgen.nvim&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/tempgen)
+[![tempgen](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tempgen.nvim&theme=github_dark&description_lines_count=2)](https://github.com/acikgozb/tempgen.nvim)
 
 ### Trophies 🏆
 
