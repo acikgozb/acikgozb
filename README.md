@@ -16,15 +16,17 @@ To see the technologies I frequently use, you can check my [StackShare](https://
 
 ### Projects 👨‍💻
 
-These are the ones I pay attention the most.
+These are the ones I actively use and pay attention the most. 
+I shift my focus from time to time, based on the needs.
 
-The implementations and opinions are all my own. For more details other than individual README's, you can check out [here](https://acikgozb.dev/projects).
+For more details other than individual README's, you can check out [here](https://acikgozb.dev/projects).
 
-[![acikgozb-dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2&border_color=3d444d)](https://github.com/acikgozb/acikgozb.dev)
-[![gtee](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=gtee&theme=github_dark&description_lines_count=2&border_color=3d444d)](https://github.com/acikgozb/gtee)
-[![local-ci](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=local-ci&theme=github_dark&description_lines_count=2&border_color=3d444d)](https://github.com/acikgozb/local-ci)
+[![acikgozb-dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/acikgozb.dev)
+[![local-k8s](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=local-k8s&theme=github_dark&description_lines_count=2&border_color=3d444d)](https://github.com/acikgozb/local-k8s)
+[![gtee](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=gtee&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/gtee)
+[![local-ci](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=local-ci&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/local-ci)
 [![tcp-ip-journey](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tcp-ip-journey&theme=github_dark&description_lines_count=2&border_color=3d444d)](https://github.com/acikgozb/tcp-ip-journey)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=dotfiles&theme=github_dark&description_lines_count=2&border_color=3d444d)](https://github.com/acikgozb/dotfiles)
+[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=dotfiles&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/dotfiles)
 [![tempgen](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tempgen.nvim&theme=github_dark&description_lines_count=2&border_color=3d444d)](https://github.com/acikgozb/tempgen.nvim)
 
 ### Trophies 🏆
