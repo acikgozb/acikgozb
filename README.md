@@ -3,7 +3,7 @@
 ![main-field](https://img.shields.io/badge/main_field-cloud_infrastructure-%235c4ee5)
 ![building-with](https://img.shields.io/badge/building_with-love%2C_sweat%2C_tears-red)
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acikgozb&custom_title=Top%20Used%20Languages%20%28Public%29&langs_count=6&theme=github_dark&layout=compact&card_width=350&&border_color=3d444d&cache_seconds=21666)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acikgozb&custom_title=Top%20Used%20Languages%20%28Public%29&langs_count=6&theme=github_dark&layout=compact&card_width=350&&border_color=3d444d&hide=c%23,yaml)
 
 ### Tech Stack 🛠️
 
