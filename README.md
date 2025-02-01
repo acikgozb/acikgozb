@@ -12,8 +12,9 @@
 ### Projects 👨‍💻
 
 These are the ones I actively use and pay attention the most. 
-Each one of them belongs to atleast one of the three groups below:
+Each one of them belongs to atleast one of the four groups below:
 * Automation
+* Networking
 * Learning
 * Proof of Concept (PoC)
 
