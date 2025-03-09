@@ -22,16 +22,11 @@ I shift my focus from time to time, based on the needs.
 
 For more details other than individual README's, you can check out [here](https://acikgozb.dev/projects).
 
-| Repository | Description |
-| ---------- | ----------- |
-| [acikgozb.dev](https://github.com/acikgozb/acikgozb.dev) | Personal website. Powered by Cloudflare & AWS. |
-| [local-k8s-osx](https://github.com/acikgozb/local-k8s-osx) | Bootstrap a local Kubernetes cluster starting from hardware virtualization. |
-| [ping](https://github.com/acikgozb/tcp-ip-journey/tree/main/1-ping) | An analysis of "ping", exploring TCP/IP. Going from L3 all the way to L1. |
-| [local-ci](https://github.com/acikgozb/local-ci) | Bootstrap a local Jenkins cluster with Podman to test your pipelines locally. |
-| [gtee](https://github.com/acikgozb/gtee) | Go implementation of `tee`, a GNU Coreutils tool. |
-| [dotfiles](https://github.com/acikgozb/dotfiles) | My host configuration. Installation is automated with Ansible. |
-| [tmux-window](https://gist.github.com/acikgozb/d17794d3c1fffe0687874912b7d76770) | Fuzzy find directories under `$HOME/<tmux_session_name>` to open them in a new `tmux` window. |
-| [tempgen.nvim](https://github.com/acikgozb/tempgen.nvim) | Bootstrap your file the way you want. |
+[![acikgozb.dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/acikgozb.dev)
+[![rofi-wayland-scripts](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=rofi-wayland-scripts&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/rofi-wayland-scripts)
+[![local-k8s-osx](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=local-k8s-osx&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/local-k8s-osx)
+[![gtee](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=gtee&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/gtee)
+[![tempgen.nvim](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tempgen.nvim&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/tempgen.nvim)
 
 ### Trophies (fun facts) 🏆
 
