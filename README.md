@@ -23,7 +23,7 @@ I shift my focus from time to time, based on the needs.
 For more details other than individual README's, you can check out [here](https://acikgozb.dev/projects).
 
 [![acikgozb.dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/acikgozb.dev)
-[![rofi-wayland-scripts](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=rofi-wayland-scripts&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/rofi-wayland-scripts)
+[![devx-scripts](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=devx-scripts&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/devx-scripts)
 [![local-k8s-osx](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=local-k8s-osx&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/local-k8s-osx)
 [![ping](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=ping&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/ping)
 [![gtee](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=gtee&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/gtee)
