@@ -10,6 +10,10 @@
   * Documenting my journey on [here](https://acikgozb.dev/posts), whenever I can find some time.
   * Adding extra details regarding some of the projects on [here](https://acikgozb.dev/projects).
 
+### Latest Post
+
+[From MacOS to Arch Linux - Is the Effort Worth It?](https://acikgozb.dev/posts/macos-to-arch)
+
 ### Website 
 
 [![acikgozb.dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/acikgozb.dev)
