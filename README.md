@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-![main-field](https://img.shields.io/badge/main_field-cloud_infrastructure-%235c4ee5)
+![main-field](https://img.shields.io/badge/main_field-dev_tooling-%235c4ee5)
 ![langs](https://img.shields.io/badge/languages-bash%2C%20go-89e051)
 ![building-with](https://img.shields.io/badge/building_with-love%2C_sweat%2C_tears-red)
 
@@ -21,7 +21,7 @@
 ### Developer environment / experience
 
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=dotfiles&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/dotfiles)
-[![devx-scripts](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=devx-scripts&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/devx-scripts)
+[![devtools](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=devtools&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/devtools)
 [![tempgen.nvim](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tempgen.nvim&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/tempgen.nvim)
 
 ### Trophies (fun facts) 🏆
