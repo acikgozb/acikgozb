@@ -6,9 +6,8 @@
 
 ### Currently spending time on ⏳
 
-  * Upskilling.
+  * CLI tooling w/ Rust.
   * Documenting my journey on [here](https://acikgozb.dev/posts), whenever I can find some time.
-  * Adding extra details regarding some of the projects on [here](https://acikgozb.dev/projects).
 
 ### Latest Post
 
