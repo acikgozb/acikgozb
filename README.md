@@ -5,7 +5,7 @@
 
 ### Things I Enjoy ⏳
 
-  * CLI tooling w/ Rust.
+  * CLI tooling for developer experience w/ Rust.
   * Documenting my journey on [here](https://acikgozb.dev/posts), whenever I can find some time.
 
 ### Latest Post 💭
@@ -24,7 +24,13 @@
 
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=dotfiles&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/dotfiles)
 [![devtools](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=devtools&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/devtools)
+[![fcb](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=fcb&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/fcb)
 [![tempgen.nvim](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=tempgen.nvim&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/tempgen.nvim)
+
+### Desktop Environment Modules
+
+[![wl](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=wl&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/wl)
+[![hpm](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=hpm&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/hpm)
 
 ### Trophies (fun facts) 🏆
 
