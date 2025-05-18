@@ -1,23 +1,26 @@
 ### Welcome 👋
 
-![main-field](https://img.shields.io/badge/main_field-dev_tooling-%235c4ee5)
-![langs](https://img.shields.io/badge/languages-bash%2C%20go-89e051)
+![main-field](https://img.shields.io/badge/main_field-cloud_infrastructure%2C_tooling-%235c4ee5)
 ![building-with](https://img.shields.io/badge/building_with-love%2C_sweat%2C_tears-red)
 
-### Currently spending time on ⏳
+### Things I Enjoy ⏳
 
   * CLI tooling w/ Rust.
   * Documenting my journey on [here](https://acikgozb.dev/posts), whenever I can find some time.
 
-### Latest Post
+### Latest Post 💭
 
 [From MacOS to Arch Linux - Is the Effort Worth It?](https://acikgozb.dev/posts/macos-to-arch)
 
-### Website 
+### Currently Working On :wrench:
+
+[![wl](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=wl&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/wl)
+
+### Website 💭
 
 [![acikgozb.dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/acikgozb.dev)
 
-### Developer environment / experience
+### Dev Environment 👨‍💻
 
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=dotfiles&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/dotfiles)
 [![devtools](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=devtools&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/devtools)
