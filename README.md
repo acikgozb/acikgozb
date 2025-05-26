@@ -14,7 +14,7 @@
 
 ### Currently Working On :wrench:
 
-[![wl](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=wl&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21602)](https://github.com/acikgozb/wl)
+[![bt](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=bt&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=2160)](https://github.com/acikgozb/bt)
 
 ### Website 💭
 
@@ -29,7 +29,7 @@
 
 ### Desktop Environment Modules
 
-[![wl](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=wl&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21602)](https://github.com/acikgozb/wl)
+[![wl](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=wl&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/wl)
 [![hpm](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=hpm&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/hpm)
 
 ### Trophies (fun facts) 🏆
