@@ -10,7 +10,7 @@
 
 ### Latest Post 💭
 
-[From MacOS to Arch Linux - Is the Effort Worth It?](https://acikgozb.dev/posts/macos-to-arch)
+["The Book"?](https://acikgozb.dev/posts/the-book)
 
 ### Currently Working On :wrench:
 
