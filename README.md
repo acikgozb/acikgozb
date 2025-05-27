@@ -3,6 +3,8 @@
 ![main-field](https://img.shields.io/badge/main_field-cloud_infrastructure%2C_tooling-%235c4ee5)
 ![building-with](https://img.shields.io/badge/building_with-love%2C_sweat%2C_tears-red)
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acikgozb&langs_count=8&layout=compact&theme=github_dark&border_color=3d444d)
+
 ### Things I Enjoy ⏳
 
   * CLI tooling for developer experience w/ Rust.
