@@ -3,20 +3,16 @@
 ![main-field](https://img.shields.io/badge/main_field-developer_experience%2C_tooling-%235c4ee5)
 ![building-with](https://img.shields.io/badge/building_with-love%2C_sweat%2C_tears-red)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acikgozb&langs_count=8&layout=compact&theme=github_dark&border_color=3d444d)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acikgozb&langs_count=8&layout=compact&theme=github_dark&border_color=3d444d&cache_seconds=21601)
 
 ### Things I Enjoy
 
-  * CLI tooling w/ Rust.
+  * Rust.
   * Documenting my journey on [here](https://acikgozb.dev/posts), whenever I can find some time.
 
 ### Latest Post
 
 ["The Book"?](https://acikgozb.dev/posts/the-book)
-
-### Currently Working On 
-
-[![bt](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=bt&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=2160)](https://github.com/acikgozb/bt)
 
 ### Website
 
@@ -31,6 +27,7 @@
 
 ### Desktop Environment Modules
 
+[![bt](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=bt&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/bt)
 [![wl](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=wl&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/wl)
 [![hpm](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=hpm&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/hpm)
 
