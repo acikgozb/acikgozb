@@ -14,6 +14,10 @@
 
 ["The Book"?](https://acikgozb.dev/posts/the-book)
 
+### Currently Working On
+
+[![beej-net-rs](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=beej-net-rs&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/beej-net-rs)
+
 ### Website
 
 [![acikgozb.dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/acikgozb.dev)
