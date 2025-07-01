@@ -1,6 +1,5 @@
 ### Welcome 👋
 
-![main-field](https://img.shields.io/badge/main_field-developer_experience%2C_tooling-%235c4ee5)
 ![building-with](https://img.shields.io/badge/building_with-love%2C_sweat%2C_tears-red)
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acikgozb&langs_count=8&layout=compact&theme=github_dark&border_color=3d444d&cache_seconds=21601)
@@ -16,7 +15,7 @@
 
 ### Currently Working On
 
-[![beej-net-rs](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=beej-net-rs&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/beej-net-rs)
+[![beej-net-rs](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=beej-net-rs&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/beej-net-rs)
 
 ### Website
 
