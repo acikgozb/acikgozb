@@ -7,6 +7,7 @@
 ### Things I Enjoy
 
   * Rust.
+  * Intuitive CLI's.
   * Documenting my journey on [here](https://acikgozb.dev/posts), whenever I can find some time.
 
 ### Latest Post
@@ -15,11 +16,7 @@
 
 ### Currently Working On
 
-[![beej-net-rs](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=beej-net-rs&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/beej-net-rs)
-
-### Website
-
-[![acikgozb.dev](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=acikgozb.dev&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/acikgozb.dev)
+N/A
 
 ### Dev Environment
 
@@ -33,6 +30,10 @@
 [![bt](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=bt&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/bt)
 [![wl](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=wl&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/wl)
 [![hpm](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=hpm&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21600)](https://github.com/acikgozb/hpm)
+
+### Misc
+
+[![beej-net-rs](https://github-readme-stats.vercel.app/api/pin/?username=acikgozb&repo=beej-net-rs&theme=github_dark&description_lines_count=2&border_color=3d444d&cache_seconds=21601)](https://github.com/acikgozb/beej-net-rs)
 
 ### Trophies (vanity metric)
 
