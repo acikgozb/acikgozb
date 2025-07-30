@@ -7,6 +7,7 @@
 ### Things I Enjoy
 
   * Rust.
+  * Learning and utilzing fundamental concepts.
   * Intuitive CLI's.
   * Documenting my journey on [here](https://acikgozb.dev/posts), whenever I can find some time.
 
@@ -38,4 +39,3 @@ N/A
 ### Trophies (vanity metric)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=acikgozb&theme=onestar&rank=SECRET,SSS,SS,S&margin-w=5&margin-h=5&row=2&no-frame=true)
-
