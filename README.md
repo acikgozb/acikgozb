@@ -1,6 +1,7 @@
 ### Welcome
 
-![building-with](https://img.shields.io/badge/building_with-love%2C_sweat%2C_tears-red)
+![building-with](https://img.shields.io/badge/building_with-love%2C_sweat%2C_tears-red) ![ip](https://img.shields.io/badge/leaked_ip-192.168.1.101-purple)
+
 
 ### Things I Enjoy
 
