@@ -4,8 +4,8 @@
 
 ### Things I Enjoy
 
-  * Rust.
-  * TCP/IP, Linux network stack.
+  * Linux,
+  * TCP/IP,
   * Fundamentals.
 
 ### Latest Post
